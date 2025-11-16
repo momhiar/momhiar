@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mohammad Esmaeili
 
-🚀 **Senior Senior Software engineer**  
+🚀 **Senior Software engineer**  
 Crafting scalable AI-powered web systems with **Python**, **Django**, **FastAPI**, and modern **JavaScript frameworks**.
 
 ---
